@@ -1,1 +1,9 @@
-ie\gmit\ds\PasswordServiceGrpc$1.class
+ie\gmit\ds\UserSendData.class
+ie\gmit\ds\UserApiResource.class
+ie\gmit\ds\UserLogin.class
+ie\gmit\ds\UserClient.class
+ie\gmit\ds\UserHealthCheck.class
+ie\gmit\ds\UserApiConfig.class
+ie\gmit\ds\UserReceiveData.class
+ie\gmit\ds\UserApiApplication.class
+ie\gmit\ds\UserClient$1.class
